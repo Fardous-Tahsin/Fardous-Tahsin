@@ -1,5 +1,8 @@
+<img src="https://static.vecteezy.com/system/resources/previews/005/484/692/original/programming-and-coding-concept-modern-flat-design-for-web-banner-website-element-or-web-template-vector.jpghttps://static.vecteezy.com/system/resources/previews/005/484/692/original/programming-and-coding-concept-modern-flat-design-for-web-banner-website-element-or-web-template-vector.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Fardous Tahsin</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh.</h3>
+<img width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardous-tahsin&label=Profile%20views&color=0e75b6&style=flat" alt="fardous-tahsin" /> </p>
 
