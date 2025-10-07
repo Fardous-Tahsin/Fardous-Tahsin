@@ -1,4 +1,4 @@
-<img src="Picture of X.jpg" width="100%" height="5%">
+<img src="Picture of X.jpg" width="100%" height="500px">
 
 <h1> 👋 Hello, I'm Fardous Tahsin</h1>
 
