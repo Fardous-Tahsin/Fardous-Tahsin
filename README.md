@@ -21,3 +21,20 @@
 | HR Officer                     | Evergreen Products Factory BD Limited       | Nov 2024 - Sep 2024 | Uttara EPZ, Nilphamari      |
 | Technical Support Specialist   | THT-Space Electrical Company Limited        | Mar 2024 - Sep 2025 | Uttara EPZ, Nilphamari      |
 
+### 👨🏻‍🎓 &nbsp; Education
+
+B.Sc. Engineering in Computer Science & Engineering  
+Bangladesh Army University of Science & Technology 
+Saidpur, Nilphamari, Bangladesh.
+
+### Languages:
+
+Bangla   : Native <br>
+English  : Advanced
+
+---
+
+Thanks for going through my Portfolio.
+All rights reserved by Fardous Tahsin @2025
+
+---
