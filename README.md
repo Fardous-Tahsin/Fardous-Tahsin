@@ -13,3 +13,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardous-tahsin&show_icons=true&locale=en&layout=compact" alt="fardous-tahsin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardous-tahsin&show_icons=true&locale=en" alt="fardous-tahsin" /></p>
+
+### 💼 &nbsp; Employment History
+
+| Position                       | Institute                                   | Duration            | Location                    |
+| ------------------------------ | ------------------------------------------- | ------------------- | --------------------------- |
+| HR Officer                     | Evergreen Products Factory BD Limited       | Nov 2024 - Sep 2024 | Uttara EPZ, Nilphamari      |
+| Technical Support Specialist   | THT-Space Electrical Company Limited        | Mar 2024 - Sep 2025 | Uttara EPZ, Nilphamari      |
+
