@@ -2,6 +2,12 @@
 
 <h1> 👋 Hello, I'm Fardous Tahsin</h1>
 
+### 👨‍🏫 &nbsp; About Me
+<p align="justify">I am a passionate Web Developer who loves learning and working with various technologies.  
+With a background in Computer Science and Engineering from Bangladesh Army University of Science & Technology (BAUST),  
+I am currently diving deeper into full-stack (MERN) development and exploring new tools to enhance my skills and experience.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/fardous tahsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardous tahsin" height="30" width="40" /></a>
